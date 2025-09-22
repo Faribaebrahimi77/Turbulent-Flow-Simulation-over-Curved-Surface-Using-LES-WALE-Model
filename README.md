@@ -1,6 +1,19 @@
-#WALE-vs-RANS-Turbulence-Models-Comparative-Analysis-for-Curved-Hump-Flow
-Comparative study of LES-WALE vs RANS turbulence models for turbulent flow over a curved hump geometry using the Greenblatt experimental benchmark. Evaluates accuracy, computational cost, and predictive performance.
+# Project Objectives
+#  Main Objective:
+Comprehensive comparison of LES-WALE and RANS turbulence models performance for turbulent flow over curved geometry
 
+#  Secondary Objectives:
+
+Evaluate simulation accuracy in predicting flow separation
+
+
+Analyze computational cost of each model
+
+
+Investigate capability of predicting turbulent structures
+
+
+Validate results with Greenblatt experimental data
 
 performance.
    # Geometry Specifications
