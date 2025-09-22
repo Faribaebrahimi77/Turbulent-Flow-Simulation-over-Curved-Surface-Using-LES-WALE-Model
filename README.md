@@ -3,9 +3,10 @@ Comparative study of LES-WALE vs RANS turbulence models for turbulent flow over 
 
 
 performance.
-🏗️ Geometry Specifications
+   # Largest text Geometry Specifications
 
 Hump Length (c): 420 mm
+
 Maximum Height (h): 53.7 mm
 Geometry Type: 2D profile extended in span-wise direction
 Test Section Dimensions:
