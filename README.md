@@ -1,4 +1,4 @@
-<img width="800" height="336" alt="image" src="https://github.com/user-attachments/assets/04c9ad42-9c7f-4388-a4b7-a4a5f448a8e8" /># overview
+# overview
 
 Comprehensive comparison of LES-WALE and RANS turbulence models performance for turbulent flow over curved geometry
 
